@@ -13,7 +13,7 @@ const information = {
 	email: "sdadevteamdtu@gmail.com",
   	leadInstitution: "International School, Duy Tan University",
   	mentor1: "Ph.D Binh Thanh Nguyen",
-  	mentor2: "M.Sc Huy, Truong Dinh",  
+  	mentor2: "MS.c Huy, Truong Dinh",  
   	scrumMaster: "Hoa, Vo",
   	teamMember: ["Tin,Pham Van", "Dong, Ky Huu", "Kieu, Tran Thanh"],
   	methodology: "Scrum",
