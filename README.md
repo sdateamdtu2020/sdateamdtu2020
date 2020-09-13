@@ -18,7 +18,7 @@ const information = {
   	teamMember: ["Tin,Pham Van", "Dong, Ky Huu", "Kieu, Tran Thanh"],
   	methodology: "Scrum",
   	process: ["Data Sources", "ETL", "OLAP", "Dashboard", "Viz & AI"],
-  	code: "Javascript, Python",
+  	programmingLanguage: "Javascript, Python",
   	technologies: {
 		client: ["ReactJS", "ReduxJS", "react-dnd", "Material-UI", "styled-components"],
 		server: ["ExpressJS", "RESTful API"],
