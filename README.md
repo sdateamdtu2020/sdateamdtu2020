@@ -20,8 +20,8 @@ const information = {
   	process: ["Data Sources", "ETL", "OLAP", "Dashboard", "Viz & AI"],
   	code: "Javascript, Python",
   	technologies: {
-		client: ["ReactJS", "ReduxJS", "react-dnd", "styled-components"],
-		server: ["ExpressJS"],
+		client: ["ReactJS", "ReduxJS", "react-dnd", "Material-UI", "styled-components"],
+		server: ["ExpressJS", "RESTful API"],
 		dataCubes: ["RdF-Graph", "SPARQL"],
 		dataWarehouses: ["Python", "PostgreSQL"],
 		communication: ["Slack", "Discord", "Trello", "Skype"],
