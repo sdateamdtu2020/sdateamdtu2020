@@ -12,9 +12,8 @@ const information = {
   	leadInstitution: "International School, Duy Tan University",
   	mentor1: "Ph.D Binh Thanh Nguyen",
   	mentor2: "M.Sc Huy, Truong Dinh",  
-  	scrumMaster: "Hoa, Vo",
-  	teamMember: ["Tin,Pham Van", "Dong, Ky Huu", "Kieu, Tran Thanh"],
-  	methodology: "Scrum",
+  	contributer: ["Hoa, Vo", "Tin,Pham Van", "Dong, Ky Huu", "Kieu, Tran Thanh"],
+  	developmentProcess: "Scrum",
   	process: ["Data Sources", "ETL", "OLAP", "Dashboard", "Viz & AI"],
   	programmingLanguage: "Javascript, Python",
   	technologies: {
