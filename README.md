@@ -12,17 +12,15 @@ const information = {
   	leadInstitution: "International School, Duy Tan University",
   	mentor1: "Ph.D Binh Thanh Nguyen",
   	mentor2: "M.Sc Huy, Truong Dinh",  
-  	contributer: ["Hoa, Vo", "Tin,Pham Van", "Dong, Ky Huu", "Kieu, Tran Thanh"],
+  	contributer: ["Hoa, Vo", "Tin, Pham Van", "Dong, Ky Huu", "Kieu, Tran Thanh"],
   	developmentProcess: "Scrum",
   	process: ["Data Sources", "ETL", "OLAP", "Dashboard", "Viz & AI"],
-  	programmingLanguage: "Javascript, Python",
+  	programmingLanguage: ["Javascript" , "Python"],
   	technologies: {
 		client: ["ReactJS", "ReduxJS", "react-dnd", "Material-UI", "styled-components"],
 		server: ["ExpressJS", "RESTful API"],
 		dataCubes: ["RdF-Graph", "SPARQL"],
 		dataWarehouses: ["Python", "PostgreSQL"],
-		communication: ["Slack", "Discord", "Trello", "Skype"],
-		configurationManagement: ["Google Sheet", "Google Document", "Github", "Trello"],
 	},
 };
 ```
