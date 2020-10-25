@@ -25,3 +25,5 @@ const information = {
 };
 ```
 
+### System Context Diagram
+<img src="https://i.imgur.com/0InPsRQ.png" alt="context-diagram"/>
