@@ -17,13 +17,10 @@ const information = {
   	process: ["Data Sources", "ETL", "OLAP", "Dashboard", "Viz & AI"],
   	programmingLanguage: ["Javascript" , "Python"],
   	technologies: {
-		client: ["ReactJS", "ReduxJS", "react-dnd", "Material-UI", "styled-components"],
+		client: ["ReactJS", "ReduxJS", "Material-UI", "styled-components", "react-dnd", "beautiful-react-diagrams"],
 		server: ["ExpressJS", "RESTful API"],
 		dataCubes: ["RdF-Graph", "SPARQL"],
 		dataWarehouses: ["Python", "PostgreSQL"],
 	},
 };
 ```
-
-### System Context Diagram
-<img src="https://i.imgur.com/0InPsRQ.png" alt="context-diagram"/>
