@@ -6,12 +6,12 @@
 const information = {
 	acronym: "EDSDA",
 	title: "Expert-driven Smart Dashboard Application",
-  	function: "Automate data processing which help the experts of every fields can insert their data sources and visualize, integrate them with related multidimensional data cubes by completely automate method.",
+  	projectType: "Scientific Research",
   	webURL: "https://sda-research.ml/",
 	email: "sdadevteamdtu@gmail.com",
   	leadInstitution: "International School, Duy Tan University",
   	mentor1: "Ph.D Binh Thanh Nguyen",
-  	contributer: ["Hoa Vo", "Tin Pham Van", "Dong Ky Huu", "Kieu Tran Thanh"],
+  	contributer: ["Hoa Vo", "Tin Pham Van", "Dong Ky Huu", "Kieu Tran Thi Thanh"],
   	process: ["Data Sources", "ETL", "OLAP", "Dashboard", "Viz & AI"],
 };
 ```
