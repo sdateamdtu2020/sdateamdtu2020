@@ -6,7 +6,7 @@
 const information = {
 	acronym: "EDSDA",
 	title: "Expert-driven Smart Dashboard Application",
-  	projectType: "Scientific Research",
+  	projectType: "Scientific Research about Linked Data & RDF Data Cube & Data Warehouse",
   	webURL: "https://sda-research.ml/",
 	email: "sdadevteamdtu@gmail.com",
   	leadInstitution: "International School, Duy Tan University",
